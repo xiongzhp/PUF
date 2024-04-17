@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>SciMind 0.5 features</title>
+      <link href="/2024/04/17/SciMind-features/"/>
+      <url>/2024/04/17/SciMind-features/</url>
+      
+        <content type="html"><![CDATA[<p>SciMind is a powerful platform designed specifically for drug research and development, aimed at providing comprehensive technical support to pharmaceutical experts at various stages of the drug development cycle. Whether you are in the early pre-research phase and need to interpret literature and patents, or in the later stages of drug design and chemical synthesis design, or even need assistance in writing scientific documents, SciMind can provide comprehensive and precise technical support. Our goal is to make drug research and development simpler and faster through efficient data processing and deep learning techniques, while ensuring the accuracy and reliability of data processing.</p><h2 id="Key-Features"><a href="#Key-Features" class="headerlink" title="Key Features"></a>Key Features</h2><p><b style="color: #42d2ca"><strong>Chart Recognition</strong></b>: One of the primary capabilities of the SciMind platform is its powerful chart recognition ability, which can quickly extract key data from complex literature.</p><p><b style="color: #42d2ca"><strong>Peptide Sequence Data Extraction</strong></b>: To meet the specific needs of the peptide research field, SciMind can accurately identify and extract peptide sequence data from patents or literature.</p><p><b style="color: #42d2ca"><strong>Markush Structure Analysis</strong></b>: In the analysis of patents in the chemical and biomedical fields, SciMind provides automatic parsing of Markush structures and determination of patent protection scope.</p><p><b style="color: #42d2ca"><strong>Drug Target Discovery</strong></b>: SciMind can realize the retrieval of disease, target, and drug, whether it is the potential target of disease, potential indication of target, potential drug of disease, drug safety, etc. simple retrieval, or recommendations such as target recommendations for weight loss only in the abdomen and not in the chest, can provide referential opinions.</p><p>The following video content will showcase how SciMind demonstrates its excellent performance in these scenarios and becomes an expert’s powerful assistant in the field of drug research and development.</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>SciMind 0.5 release</title>
+      <link href="/2024/04/17/scimind-0.5/"/>
+      <url>/2024/04/17/scimind-0.5/</url>
+      
+        <content type="html"><![CDATA[<p>Artificial General Intelligence represented by large models is sweeping in, gradually affecting all aspects of work and life. However, the three major challenges of high cost, long cycle, and low success rate in the field of drug research and development still weigh on us. In order to better cope with these challenges, we are excited to introduce to you an exciting technical innovation - a brand new partner for drug research and development, AI Assistant SciMind, a large-scale multi-modal hybrid expert system model born for the biomedical field.</p><p>🌐 The Perfect Convergence of Large Models and Drug Research and Development: ChatGPT has sparked public expectations for large models, but large models consume big data, and data in the biomedical field is scarce, with low utilization rates. The data and models are stuck in a vicious cycle, resulting in even the most advanced existing large models, such as GPT4, being unable to effectively handle tables, chemical molecules, and biological sequences and other information in biomedical documents. Based on the world’s leading chemical information extraction tool αExtractor, we automatically structure the information, including molecular images, in documents and patents with the highest current accuracy. Based on pharmaceutical big data, we build a multi-modal large model for pharmaceutical documents.</p><p>🔬 Freer Retrieval and Q&amp;A: The speed at which literature and patents are produced has now exceeded the limits of what the human brain can handle. Simple filtering through search engines and presentation through knowledge graphs can no longer meet the requirements. Moreover, the massive internal documents produced by pharmaceutical companies and research institutions also urgently need to be better archived and utilized. We need a more flexible document summarization and knowledge Q&amp;A system to quickly understand the current state of research and not miss the latest research results.</p><p>🚀 More Powerful Molecular Design Toolchain: Too many parameters in drug design tools to use? SciMind integrates the most advanced molecular property prediction, molecular generation, and structure optimization tools. Just state your needs, and you, who are most familiar with the project and have the most chemical intuition, can use them with zero threshold and controllably, without “middlemen” in CADD making a profit.<br>Now, let’s delve into the principles of SciMind’s model, its widely applicable usage scenarios, multi-dimensional capability evaluations, and how to apply for a trial, and jointly reveal this technological miracle that leads drug research and development!</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Our mission</title>
+      <link href="/2024/04/17/mission/"/>
+      <url>/2024/04/17/mission/</url>
+      
+        <content type="html"><![CDATA[<p>Deposit all the knowledge and experience in biopharmaceutical research,helping the biopharmaceutical industry march towards a vast sea of stars</p><p>沉淀生物医药领域所有的知识经验，助力行业迈向星辰大海</p><p>Song created by Suno</p><p>[Verse 1]<br>谁是我们的朋友<br>这个问题是革命的首要问题<br>中国过去一切革命斗争成效甚少<br>其基本原因是因为不能团结真正的朋友<br>以攻击真正的敌人</p><p>[Verse 2]<br>革命党是群众的向导<br>不可不注意团结我们的真正的朋友<br>以攻击真正的敌人<br>我们要分辨真正的敌友</p><p>[Chorus]<br>我们的朋友永远在一起<br>反内卷<br>拒绝屎上雕花<br>为了真正的胜利</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2023/09/01/hello-world/"/>
+      <url>/2023/09/01/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>This is the begining of our journey!</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
